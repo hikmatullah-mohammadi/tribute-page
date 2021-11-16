@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+#title,
+#img-div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#img-div {
+  background-color:rgba(248, 248, 248, 0.836);
+  padding: 10px;
+  margin: 0px;
+}
+
+#tribute-info {
+  margin: 20px 20px;
+}
+
+#image {
+  max-width: 100%;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h4 {
+  text-align: center;
+  margin: 15px;
+}
+
+#quoteBlock {
+  font-style: italic;
+}
